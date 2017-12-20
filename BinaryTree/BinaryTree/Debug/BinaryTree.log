@@ -1,0 +1,4 @@
+﻿  Source.c
+e:\data structures (a psuedocode approach)\binarytree\binarytree\source.c(26): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BinaryTree.vcxproj -> E:\Data Structures (A psuedocode approach)\BinaryTree\Debug\BinaryTree.exe
+  BinaryTree.vcxproj -> E:\Data Structures (A psuedocode approach)\BinaryTree\Debug\BinaryTree.pdb (Partial PDB)
